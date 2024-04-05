@@ -1,0 +1,25 @@
+.ticket {
+    text-align: center;
+  }
+  
+  .scratch-area {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: silver;
+  }
+  
+  .ticket-image {
+    max-width: 100%;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
